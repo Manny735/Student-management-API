@@ -1,1 +1,6 @@
 fastapi[all]
+uvicorn
+pydantic
+python-dotenv
+supabase
+httpx
